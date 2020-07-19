@@ -1,0 +1,6 @@
+github.com/danmaina/HttpResponse v0.0.0-20190720163938-f10d368f1a7a h1:Ub3MbMvO/oWkQl0yb07+p5Y+76XuFSJe/Jc9ookp9vE=
+github.com/danmaina/HttpResponse v0.0.0-20190720163938-f10d368f1a7a/go.mod h1:YGauY/aiGVa32ZCR2bOnB+51gD27cdy+YDp7kerPmFg=
+github.com/danmaina/logger v1.0.0 h1:82fRTeGmPkL5QrGLKWKBaNimtSCDy4WxFa3q8kGiAYo=
+github.com/danmaina/logger v1.0.0/go.mod h1:d18c4j5NhSwVTetZIybgvB7w8pOePr+vsZT4vPWEBjA=
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
